@@ -105,5 +105,6 @@ dist
 
 .idea/
 
-.png
-.webp
+*.png
+*.webp
+*.Zone.Identifier
